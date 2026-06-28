@@ -342,12 +342,12 @@ class NandDump(object):
 		ident = f.read(2)
 		
 		# TODO: support the commented game types
-		if ident[0] == 'F': return 'NES'
-		elif ident[0] == 'J': return 'SNES'
-		elif ident[0] == 'L': return 'Master System'
-		elif ident[0] == 'M': return 'Genesis'
-		elif ident[0] == 'N': return 'Nintendo 64'
-		elif ident[0] == 'P': return 'TurboGrafx16'
+		if ident[0] == 'N': return 'Nintendo 64'
+		#elif ident[0] == 'F': return 'NES'
+		#elif ident[0] == 'J': return 'SNES'
+		#elif ident[0] == 'L': return 'Master System'
+		#elif ident[0] == 'M': return 'Genesis'
+		#elif ident[0] == 'P': return 'TurboGrafx16'
 		#elif ident == 'EA': return 'Neo Geo'
 		#elif ident[0] == 'E': return 'Arcade'
 		#elif ident[0] == 'Q': return 'TurboGrafx CD'
@@ -392,6 +392,9 @@ class NandDump(object):
 
 if __name__ == '__main__':
 	import sys
+	if len(sys.argv) < 2:
+		print("Uso: wiimetadata.py nand-directory/")
+		exit(1)
 	nand = NandDump(sys.argv[1])
 	nand.scantickets()
 	if len(sys.argv) >= 3: print nand.gettitle(sys.argv[2])
