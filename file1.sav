@@ -39,7 +39,7 @@
      "tempSwchFlags": 0,
      "yaw": 0
     },
-    "bgsDayCount": 40,
+    "bgsDayCount": 42,
     "bgsFlag": 0,
     "childEquips": {
      "buttonItems": [
@@ -64,47 +64,47 @@
      "equipment": 4370
     },
     "cutsceneIndex": 0,
-    "dayTime": 45445,
+    "dayTime": 15898,
     "deaths": 16,
     "dogParams": 0,
-    "entranceIndex": 357,
+    "entranceIndex": 16,
     "equips": {
      "buttonItems": [
       60,
-      3,
-      5,
+      17,
       10,
+      3,
       2,
-      21,
-      47,
+      5,
+      13,
       8
      ],
      "cButtonSlots": [
-      3,
-      5,
+      15,
       9,
+      3,
       2,
-      19,
-      22,
+      5,
+      11,
       7
      ],
-     "equipment": 4642
+     "equipment": 4898
     },
     "eventChkInf": [
      5808,
      14717,
-     40,
+     32808,
      1931,
-     51497,
-     3619,
+     52009,
+     3623,
      35840,
-     71,
+     79,
      61445,
      4160,
      1019,
      1783,
      610,
-     3072
+     7168
     ],
     "filenameLanguage": 2,
     "fw": {
@@ -123,17 +123,17 @@
     },
     "gsFlags": [
      437197070,
-     1,
-     0,
-     1695088640,
+     31,
+     1792,
+     1963524096,
      33722,
      0
     ],
     "health": 160,
-    "healthCapacity": 160,
+    "healthCapacity": 176,
     "highScores": [
      0,
-     0,
+     100,
      1224870656,
      0,
      0,
@@ -141,11 +141,11 @@
      60
     ],
     "horseData": {
-     "angle": 16750,
+     "angle": 13702,
      "pos": {
-      "x": 3215,
+      "x": 4789,
       "y": -20,
-      "z": 708
+      "z": 3415
      },
      "scene": 81
     },
@@ -169,14 +169,14 @@
      6656,
      17416,
      0,
-     0,
+     768,
      254,
      0,
      20,
      4,
      0,
      1514,
-     31,
+     575,
      0,
      0,
      0
@@ -186,7 +186,7 @@
       20,
       39,
       29,
-      30,
+      29,
       0,
       0,
       30,
@@ -206,12 +206,12 @@
       6,
       6,
       7,
+      5,
+      4,
       0,
       0,
       0,
-      0,
-      0,
-      0,
+      6,
       0,
       0,
       0,
@@ -229,7 +229,7 @@
       -1,
       0,
       0,
-      -1,
+      0,
       -1,
       -1,
       -1,
@@ -244,8 +244,8 @@
       -1,
       -1
      ],
-     "equipment": 4915,
-     "gsTokens": 28,
+     "equipment": 14131,
+     "gsTokens": 36,
      "items": [
       0,
       1,
@@ -262,21 +262,21 @@
       14,
       255,
       16,
+      17,
       255,
       255,
-      255,
-      30,
-      21,
+      24,
+      24,
       24,
       255,
       47,
       43
      ],
-     "questItems": 12581089,
-     "upgrades": 3429457
+     "questItems": 817887715,
+     "upgrades": 3433553
     },
     "isDoubleDefenseAcquired": 0,
-    "isDoubleMagicAcquired": 0,
+    "isDoubleMagicAcquired": 1,
     "isMagicAcquired": 1,
     "isMasterQuest": false,
     "itemGetInf": [
@@ -286,11 +286,11 @@
      36608
     ],
     "linkAge": 0,
-    "magic": 0,
-    "magicLevel": 1,
+    "magic": 84,
+    "magicLevel": 2,
     "maskMemory": 0,
-    "naviTimer": 14982,
-    "nightFlag": 0,
+    "naviTimer": 19269,
+    "nightFlag": 1,
     "ocarinaGameRoundNum": 0,
     "playerName": [
      175,
@@ -433,8 +433,8 @@
      0,
      0
     ],
-    "rupees": 90,
-    "savedSceneNum": 4,
+    "rupees": 450,
+    "savedSceneNum": 5,
     "scarecrowLongSong": [
      {
       "noteIdx": 255,
@@ -1595,30 +1595,21 @@
       "unk": 0
      },
      {
-      "chest": 22,
-      "clear": 0,
+      "chest": 16255,
+      "clear": 16809992,
       "collect": 0,
-      "floors": 192,
-      "rooms": 7864343,
-      "swch": 1627390342,
+      "floors": 248,
+      "rooms": 100663295,
+      "swch": 4294967295,
       "unk": 0
      },
      {
-      "chest": 0,
-      "clear": 0,
+      "chest": 6,
+      "clear": 786432,
       "collect": 0,
-      "floors": 0,
-      "rooms": 0,
-      "swch": 1073741824,
-      "unk": 0
-     },
-     {
-      "chest": 0,
-      "clear": 0,
-      "collect": 0,
-      "floors": 0,
-      "rooms": 0,
-      "swch": 0,
+      "floors": 240,
+      "rooms": 1966091,
+      "swch": 608239680,
       "unk": 0
      },
      {
@@ -1646,6 +1637,15 @@
       "floors": 0,
       "rooms": 0,
       "swch": 0,
+      "unk": 0
+     },
+     {
+      "chest": 7,
+      "clear": 130,
+      "collect": 2,
+      "floors": 128,
+      "rooms": 4095,
+      "swch": 2094016,
       "unk": 0
      },
      {
@@ -1749,11 +1749,11 @@
      },
      {
       "chest": 0,
-      "clear": 0,
-      "collect": 0,
+      "clear": 2,
+      "collect": 2147483648,
       "floors": 0,
       "rooms": 0,
-      "swch": 0,
+      "swch": 1048576,
       "unk": 0
      },
      {
@@ -2117,8 +2117,8 @@
       "unk": 0
      },
      {
-      "chest": 1052929,
-      "clear": 0,
+      "chest": 68162817,
+      "clear": 4,
       "collect": 0,
       "floors": 0,
       "rooms": 0,
@@ -2347,7 +2347,7 @@
       "collect": 1073741824,
       "floors": 0,
       "rooms": 0,
-      "swch": 2050,
+      "swch": 2147485698,
       "unk": 0
      },
      {
@@ -2356,13 +2356,13 @@
       "collect": 0,
       "floors": 0,
       "rooms": 0,
-      "swch": 1,
+      "swch": 17,
       "unk": 0
      },
      {
       "chest": 0,
       "clear": 0,
-      "collect": 0,
+      "collect": 1048578,
       "floors": 0,
       "rooms": 0,
       "swch": 2097160,
@@ -2428,7 +2428,7 @@
       "collect": 1073742976,
       "floors": 0,
       "rooms": 0,
-      "swch": 2147485086,
+      "swch": 3220178334,
       "unk": 0
      },
      {
@@ -2437,7 +2437,7 @@
       "collect": 260,
       "floors": 0,
       "rooms": 0,
-      "swch": 2147483656,
+      "swch": 4057989130,
       "unk": 0
      },
      {
@@ -2676,7 +2676,7 @@
      }
     ],
     "swordHealth": 0,
-    "totalDays": 40,
+    "totalDays": 42,
     "unk_54": 0,
     "worldMapAreaData": 3131391
    },
@@ -2706,7 +2706,7 @@
      8,
      0,
      0,
-     0,
+     5,
      0,
      0,
      0,
@@ -2715,91 +2715,91 @@
      0,
      0,
      0,
-     0,
-     0,
+     1,
+     2,
      7,
-     0,
-     8,
-     0,
+     2,
+     13,
+     9,
      0,
      0,
      0,
      1,
      0,
      0,
+     31,
+     12,
+     5,
+     0,
+     0,
+     2,
+     0,
+     0,
+     0,
+     0,
+     11,
+     0,
+     0,
+     0,
      8,
+     1,
+     0,
      4,
+     5,
      0,
-     0,
-     0,
-     1,
-     0,
-     0,
-     0,
-     0,
-     10,
-     0,
-     0,
-     0,
-     8,
-     1,
-     0,
-     4,
      3,
-     0,
-     0,
      7,
      0,
-     5,
+     13,
      6,
      0,
-     0,
+     4,
      2,
      5,
-     0,
-     0,
-     6,
-     7,
-     0,
-     2,
-     0,
-     2,
      0,
      0,
      12,
-     20,
-     105,
+     9,
+     13,
+     2,
+     0,
+     2,
+     1,
+     0,
+     12,
+     46,
+     167,
      0,
      0,
      3,
-     2619,
-     1160,
-     57,
-     229,
-     702,
-     239,
-     389,
-     323,
-     326,
-     24,
-     71,
-     72,
-     54,
-     170,
-     287,
-     235,
-     19,
-     1049,
+     3602,
+     2456,
+     60,
+     309,
+     1094,
+     324,
+     970,
+     483,
+     582,
+     61,
+     108,
+     92,
+     78,
+     320,
+     893,
+     365,
+     36,
+     2314,
      0,
-     637,
-     49,
-     101,
-     18159,
-     57,
-     141,
-     607,
-     3,
-     0,
+     806,
+     64,
+     186,
+     29210,
+     107,
+     155,
+     1281,
+     4,
+     1,
      0
     ],
     "dungeonKeys": [
@@ -2893,8 +2893,8 @@
     ],
     "fileCreatedAt": 1782660860010,
     "firstInput": 1782665448417,
-    "heartContainers": 1,
-    "heartPieces": 7,
+    "heartContainers": 2,
+    "heartPieces": 10,
     "itemTimestamps": [
      21989,
      0,
@@ -2913,7 +2913,7 @@
      0,
      0,
      138160,
-     0,
+     227314,
      0,
      0,
      44092,
@@ -2963,9 +2963,9 @@
      0,
      0,
      124857,
+     275413,
      0,
-     0,
-     0,
+     270585,
      0,
      0,
      0,
@@ -2983,12 +2983,12 @@
      88558,
      0,
      0,
-     0,
+     250881,
      69528,
      0,
      0,
      126463,
-     0,
+     270622,
      0,
      0,
      58841,
@@ -2999,7 +2999,7 @@
      0,
      0,
      35945,
-     0,
+     243024,
      0,
      0,
      0,
@@ -3014,7 +3014,7 @@
      0,
      0,
      14175,
-     0,
+     183703,
      2834,
      1361,
      21533,
@@ -3031,16 +3031,16 @@
      2331,
      18647,
      25998,
-     0,
-     0,
+     262953,
+     177473,
      0,
      0,
      0,
      8653,
      0,
      49813,
-     0,
-     0,
+     235474,
+     248139,
      0,
      22442,
      12689,
@@ -3060,7 +3060,7 @@
      0,
      0,
      35303,
-     0,
+     242431,
      0,
      0,
      0,
@@ -3110,463 +3110,463 @@
      0,
      0
     ],
-    "pauseTimer": 65248,
-    "playTimer": 286872,
+    "pauseTimer": 175313,
+    "playTimer": 471513,
     "rtaTiming": false,
     "sceneTimestamps": [
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 100,
-      "scene": 81,
+      "isRoom": 1,
+      "room": 7,
+      "roomTime": 652,
+      "scene": 4,
       "sceneTime": 100
      },
      {
       "isRoom": 1,
-      "room": 0,
-      "roomTime": 783,
-      "scene": 3,
+      "room": 8,
+      "roomTime": 1466,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 1,
-      "roomTime": 264,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 2,
-      "roomTime": 598,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 4,
-      "roomTime": 481,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 6,
-      "roomTime": 1294,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 4,
-      "roomTime": 194,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 2,
-      "roomTime": 2673,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 1,
-      "roomTime": 201,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 0,
-      "roomTime": 76,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 1,
-      "roomTime": 179,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 2,
-      "roomTime": 145,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 4,
-      "roomTime": 128,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 6,
-      "roomTime": 254,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 4,
-      "roomTime": 569,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 2,
-      "roomTime": 237,
-      "scene": 3,
+      "room": 7,
+      "roomTime": 177,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
       "room": 5,
-      "roomTime": 121,
-      "scene": 3,
+      "roomTime": 150,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 11,
-      "roomTime": 1143,
-      "scene": 3,
+      "room": 23,
+      "roomTime": 119,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 19,
-      "roomTime": 248,
-      "scene": 3,
+      "room": 5,
+      "roomTime": 355,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 12,
-      "roomTime": 282,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 6,
-      "roomTime": 1546,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 12,
-      "roomTime": 35,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 6,
-      "roomTime": 60,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 13,
-      "roomTime": 1595,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 6,
-      "roomTime": 85,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 12,
-      "roomTime": 1588,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 6,
-      "roomTime": 108,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 13,
-      "roomTime": 225,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 20,
-      "roomTime": 779,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 13,
-      "roomTime": 158,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 6,
-      "roomTime": 93,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 12,
-      "roomTime": 189,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 19,
-      "roomTime": 139,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 11,
-      "roomTime": 316,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 19,
-      "roomTime": 875,
-      "scene": 3,
+      "room": 4,
+      "roomTime": 266,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
       "room": 21,
-      "roomTime": 320,
-      "scene": 3,
+      "roomTime": 245,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 8,
-      "roomTime": 696,
-      "scene": 3,
+      "room": 1,
+      "roomTime": 253,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 18,
-      "roomTime": 1352,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 8,
-      "roomTime": 56,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 11,
-      "roomTime": 115,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 8,
-      "roomTime": 190,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 21,
-      "roomTime": 116,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 8,
-      "roomTime": 599,
-      "scene": 3,
+      "room": 0,
+      "roomTime": 94,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
       "room": 2,
-      "roomTime": 254,
-      "scene": 3,
+      "roomTime": 889,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 164,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 775,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 22,
+      "roomTime": 103,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 192,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 21,
+      "roomTime": 450,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 191,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 969,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 6,
+      "roomTime": 277,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 16,
+      "roomTime": 468,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 6,
+      "roomTime": 95,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 16,
+      "roomTime": 2847,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 746,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 16,
+      "roomTime": 42,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
       "room": 5,
       "roomTime": 178,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 11,
-      "roomTime": 711,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 19,
-      "roomTime": 179,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 11,
-      "roomTime": 190,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 19,
-      "roomTime": 144,
-      "scene": 3,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 1,
-      "room": 12,
-      "roomTime": 156,
-      "scene": 3,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
       "room": 6,
-      "roomTime": 120,
-      "scene": 3,
+      "roomTime": 66,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 13,
-      "roomTime": 204,
-      "scene": 3,
+      "room": 1,
+      "roomTime": 576,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 20,
-      "roomTime": 278,
-      "scene": 3,
+      "room": 21,
+      "roomTime": 463,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 14,
-      "roomTime": 609,
-      "scene": 3,
+      "room": 4,
+      "roomTime": 1042,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 20,
-      "roomTime": 326,
-      "scene": 3,
+      "room": 5,
+      "roomTime": 955,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 15,
+      "room": 23,
       "roomTime": 114,
-      "scene": 3,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 7,
-      "roomTime": 466,
-      "scene": 3,
+      "room": 5,
+      "roomTime": 819,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 15,
-      "roomTime": 540,
-      "scene": 3,
+      "room": 6,
+      "roomTime": 192,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
       "room": 16,
-      "roomTime": 1470,
-      "scene": 3,
+      "roomTime": 367,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 3,
+      "room": 9,
+      "roomTime": 77,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 1066,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 11,
+      "roomTime": 101,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 605,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 24,
+      "roomTime": 4131,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 12,
+      "roomTime": 397,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 13,
+      "roomTime": 210,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 11,
+      "roomTime": 100,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 662,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 24,
+      "roomTime": 158,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 12,
+      "roomTime": 305,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 13,
+      "roomTime": 1390,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 14,
+      "roomTime": 833,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 382,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 11,
       "roomTime": 146,
-      "scene": 3,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 335,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 24,
+      "roomTime": 138,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 12,
+      "roomTime": 308,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 13,
+      "roomTime": 200,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 14,
+      "roomTime": 318,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 147,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 11,
+      "roomTime": 823,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 127,
+      "scene": 4,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
       "room": 2,
-      "roomTime": 1044,
-      "scene": 3,
+      "roomTime": 154,
+      "scene": 4,
       "sceneTime": 0
      },
      {
-      "isRoom": 0,
-      "room": 17,
-      "roomTime": 2294,
-      "scene": 3,
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 237,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 15,
+      "roomTime": 577,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 18,
+      "roomTime": 669,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 1674,
+      "scene": 4,
       "sceneTime": 30546
      },
      {
-      "isRoom": 0,
-      "room": 1,
-      "roomTime": 3582,
-      "scene": 20,
+      "isRoom": 1,
+      "room": 17,
+      "roomTime": 463,
+      "scene": 4,
       "sceneTime": 3582
      },
      {
-      "isRoom": 0,
+      "isRoom": 1,
       "room": 0,
-      "roomTime": 788,
-      "scene": 68,
+      "roomTime": 135,
+      "scene": 4,
       "sceneTime": 788
      },
      {
-      "isRoom": 0,
-      "room": 1,
-      "roomTime": 978,
-      "scene": 85,
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 784,
+      "scene": 4,
       "sceneTime": 978
      },
      {
@@ -3598,17 +3598,17 @@
       "sceneTime": 159
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 311,
-      "scene": 85,
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 285,
+      "scene": 97,
       "sceneTime": 311
      },
      {
-      "isRoom": 0,
+      "isRoom": 1,
       "room": 0,
-      "roomTime": 154,
-      "scene": 52,
+      "roomTime": 36,
+      "scene": 97,
       "sceneTime": 154
      },
      {
@@ -3752,10 +3752,10 @@
       "sceneTime": 3930
      },
      {
-      "isRoom": 0,
+      "isRoom": 1,
       "room": 0,
-      "roomTime": 1114,
-      "scene": 96,
+      "roomTime": 295,
+      "scene": 84,
       "sceneTime": 1114
      },
      {
@@ -3766,10 +3766,10 @@
       "sceneTime": 433
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 133,
-      "scene": 81,
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 470,
+      "scene": 88,
       "sceneTime": 133
      },
      {
@@ -3787,157 +3787,157 @@
       "sceneTime": 417
      },
      {
-      "isRoom": 0,
+      "isRoom": 1,
       "room": 0,
-      "roomTime": 391,
-      "scene": 81,
+      "roomTime": 206,
+      "scene": 9,
       "sceneTime": 391
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 85,
-      "scene": 29,
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 492,
+      "scene": 9,
       "sceneTime": 85
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 105,
-      "scene": 34,
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 66,
+      "scene": 9,
       "sceneTime": 105
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 99,
-      "scene": 37,
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 1045,
+      "scene": 9,
       "sceneTime": 99
      },
      {
       "isRoom": 1,
-      "room": 1,
-      "roomTime": 114,
-      "scene": 67,
+      "room": 8,
+      "roomTime": 234,
+      "scene": 9,
       "sceneTime": 0
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 38,
-      "scene": 81,
+      "isRoom": 1,
+      "room": 9,
+      "roomTime": 2035,
+      "scene": 9,
       "sceneTime": 38
      },
      {
-      "isRoom": 0,
-      "room": 1,
-      "roomTime": 224,
-      "scene": 67,
+      "isRoom": 1,
+      "room": 8,
+      "roomTime": 102,
+      "scene": 9,
       "sceneTime": 224
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 205,
-      "scene": 37,
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 270,
+      "scene": 9,
       "sceneTime": 205
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 194,
-      "scene": 34,
+      "isRoom": 1,
+      "room": 11,
+      "roomTime": 1053,
+      "scene": 9,
       "sceneTime": 194
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 954,
-      "scene": 100,
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 208,
+      "scene": 9,
       "sceneTime": 954
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 348,
-      "scene": 34,
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 75,
+      "scene": 9,
       "sceneTime": 348
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 95,
-      "scene": 37,
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 3575,
+      "scene": 9,
       "sceneTime": 95
      },
      {
       "isRoom": 1,
-      "room": 1,
-      "roomTime": 86,
-      "scene": 67,
+      "room": 6,
+      "roomTime": 332,
+      "scene": 9,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
-      "room": 0,
-      "roomTime": 260,
-      "scene": 67,
+      "room": 7,
+      "roomTime": 2158,
+      "scene": 9,
       "sceneTime": 0
      },
      {
-      "isRoom": 0,
-      "room": 1,
-      "roomTime": 137,
-      "scene": 67,
+      "isRoom": 1,
+      "room": 10,
+      "roomTime": 27,
+      "scene": 9,
       "sceneTime": 484
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 110,
-      "scene": 36,
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 380,
+      "scene": 9,
       "sceneTime": 110
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 260,
-      "scene": 33,
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 132,
+      "scene": 9,
       "sceneTime": 260
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 33,
-      "scene": 31,
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 284,
+      "scene": 9,
       "sceneTime": 33
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 256,
-      "scene": 53,
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 142,
+      "scene": 9,
       "sceneTime": 256
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 48,
-      "scene": 31,
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 135,
+      "scene": 9,
       "sceneTime": 48
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 76,
-      "scene": 33,
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 106,
+      "scene": 9,
       "sceneTime": 76
      },
      {
       "isRoom": 1,
-      "room": 0,
-      "roomTime": 215,
-      "scene": 16,
+      "room": 1,
+      "roomTime": 200,
+      "scene": 9,
       "sceneTime": 0
      },
      {
@@ -3956,9 +3956,9 @@
      },
      {
       "isRoom": 1,
-      "room": 3,
-      "roomTime": 196,
-      "scene": 16,
+      "room": 0,
+      "roomTime": 624,
+      "scene": 88,
       "sceneTime": 0
      },
      {
@@ -3997,10 +3997,10 @@
       "sceneTime": 480
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 715,
-      "scene": 33,
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 326,
+      "scene": 84,
       "sceneTime": 715
      },
      {
@@ -4018,101 +4018,101 @@
       "sceneTime": 61
      },
      {
-      "isRoom": 0,
+      "isRoom": 1,
       "room": 0,
-      "roomTime": 1468,
-      "scene": 81,
+      "roomTime": 917,
+      "scene": 5,
       "sceneTime": 1468
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 40,
-      "scene": 81,
+      "isRoom": 1,
+      "room": 20,
+      "roomTime": 310,
+      "scene": 5,
       "sceneTime": 40
      },
      {
-      "isRoom": 0,
+      "isRoom": 1,
       "room": 0,
-      "roomTime": 303,
-      "scene": 87,
+      "roomTime": 405,
+      "scene": 5,
       "sceneTime": 303
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 1806,
-      "scene": 81,
+      "isRoom": 1,
+      "room": 20,
+      "roomTime": 253,
+      "scene": 5,
       "sceneTime": 1806
      },
      {
-      "isRoom": 0,
-      "room": 5,
-      "roomTime": 50,
-      "scene": 91,
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 425,
+      "scene": 5,
       "sceneTime": 50
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 1281,
-      "scene": 85,
+      "isRoom": 1,
+      "room": 17,
+      "roomTime": 2088,
+      "scene": 5,
       "sceneTime": 1281
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 934,
-      "scene": 62,
+      "isRoom": 1,
+      "room": 19,
+      "roomTime": 548,
+      "scene": 5,
       "sceneTime": 934
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 1271,
-      "scene": 85,
+      "isRoom": 1,
+      "room": 17,
+      "roomTime": 941,
+      "scene": 5,
       "sceneTime": 1271
      },
      {
       "isRoom": 1,
-      "room": 1,
-      "roomTime": 1494,
-      "scene": 67,
+      "room": 18,
+      "roomTime": 604,
+      "scene": 5,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 17,
+      "roomTime": 105,
+      "scene": 5,
       "sceneTime": 0
      },
      {
       "isRoom": 1,
       "room": 0,
-      "roomTime": 390,
-      "scene": 67,
-      "sceneTime": 0
-     },
-     {
-      "isRoom": 0,
-      "room": 1,
-      "roomTime": 97,
-      "scene": 67,
+      "roomTime": 125,
+      "scene": 5,
       "sceneTime": 1981
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 101,
-      "scene": 37,
+      "isRoom": 1,
+      "room": 3,
+      "roomTime": 1142,
+      "scene": 5,
       "sceneTime": 101
      },
      {
-      "isRoom": 0,
+      "isRoom": 1,
       "room": 0,
-      "roomTime": 108,
-      "scene": 34,
+      "roomTime": 86,
+      "scene": 5,
       "sceneTime": 108
      },
      {
-      "isRoom": 0,
-      "room": 0,
-      "roomTime": 86,
-      "scene": 29,
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 919,
+      "scene": 5,
       "sceneTime": 86
      },
      {
@@ -4800,6 +4800,363 @@
       "roomTime": 994,
       "scene": 4,
       "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 576,
+      "scene": 81,
+      "sceneTime": 576
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 337,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 2,
+      "roomTime": 142,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 0,
+      "roomTime": 125,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 1,
+      "roomTime": 237,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 21,
+      "roomTime": 620,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 1714,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 903,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 23,
+      "roomTime": 569,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 154,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 6,
+      "roomTime": 176,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 16,
+      "roomTime": 382,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 3582,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 4,
+      "roomTime": 661,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 1,
+      "room": 5,
+      "roomTime": 645,
+      "scene": 4,
+      "sceneTime": 0
+     },
+     {
+      "isRoom": 0,
+      "room": 26,
+      "roomTime": 3,
+      "scene": 4,
+      "sceneTime": 44676
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 3751,
+      "scene": 21,
+      "sceneTime": 3751
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 176,
+      "scene": 82,
+      "sceneTime": 176
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1003,
+      "scene": 68,
+      "sceneTime": 1003
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 313,
+      "scene": 97,
+      "sceneTime": 634
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1477,
+      "scene": 59,
+      "sceneTime": 1477
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 211,
+      "scene": 97,
+      "sceneTime": 211
+     },
+     {
+      "isRoom": 0,
+      "room": 12,
+      "roomTime": 794,
+      "scene": 62,
+      "sceneTime": 794
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 450,
+      "scene": 97,
+      "sceneTime": 450
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 299,
+      "scene": 62,
+      "sceneTime": 299
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 506,
+      "scene": 97,
+      "sceneTime": 506
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1580,
+      "scene": 96,
+      "sceneTime": 1580
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 375,
+      "scene": 82,
+      "sceneTime": 375
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 617,
+      "scene": 80,
+      "sceneTime": 617
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 703,
+      "scene": 82,
+      "sceneTime": 703
+     },
+     {
+      "isRoom": 0,
+      "room": 2,
+      "roomTime": 462,
+      "scene": 62,
+      "sceneTime": 462
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 253,
+      "scene": 82,
+      "sceneTime": 253
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 378,
+      "scene": 81,
+      "sceneTime": 378
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 42,
+      "scene": 29,
+      "sceneTime": 42
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 592,
+      "scene": 77,
+      "sceneTime": 592
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 70,
+      "scene": 29,
+      "sceneTime": 70
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 430,
+      "scene": 81,
+      "sceneTime": 430
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 367,
+      "scene": 84,
+      "sceneTime": 367
+     },
+     {
+      "isRoom": 0,
+      "room": 9,
+      "roomTime": 517,
+      "scene": 62,
+      "sceneTime": 517
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 1852,
+      "scene": 84,
+      "sceneTime": 2147
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 390,
+      "scene": 88,
+      "sceneTime": 860
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 773,
+      "scene": 89,
+      "sceneTime": 773
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 205,
+      "scene": 9,
+      "sceneTime": 13467
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 1040,
+      "scene": 89,
+      "sceneTime": 1040
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 458,
+      "scene": 88,
+      "sceneTime": 1082
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 393,
+      "scene": 47,
+      "sceneTime": 393
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 482,
+      "scene": 88,
+      "sceneTime": 482
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 480,
+      "scene": 60,
+      "sceneTime": 480
+     },
+     {
+      "isRoom": 0,
+      "room": 1,
+      "roomTime": 96,
+      "scene": 88,
+      "sceneTime": 96
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 246,
+      "scene": 84,
+      "sceneTime": 573
+     },
+     {
+      "isRoom": 0,
+      "room": 0,
+      "roomTime": 719,
+      "scene": 87,
+      "sceneTime": 719
      }
     ],
     "scenesDiscovered": [
@@ -4808,7 +5165,7 @@
      0,
      0
     ],
-    "tsIdx": 241
+    "tsIdx": 399
    },
    "version": 1
   },
@@ -4822,7 +5179,17 @@
       "status": 5
      },
      {
+      "randomizerCheck": 6,
+      "skipped": false,
+      "status": 5
+     },
+     {
       "randomizerCheck": 19,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 20,
       "skipped": false,
       "status": 5
      },
@@ -4882,7 +5249,17 @@
       "status": 5
      },
      {
+      "randomizerCheck": 146,
+      "skipped": false,
+      "status": 5
+     },
+     {
       "randomizerCheck": 179,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 193,
       "skipped": false,
       "status": 5
      },
@@ -4957,6 +5334,61 @@
       "status": 5
      },
      {
+      "randomizerCheck": 244,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 247,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 248,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 249,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 250,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 251,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 252,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 253,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 254,
+      "skipped": false,
+      "status": 2
+     },
+     {
+      "randomizerCheck": 256,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 257,
+      "skipped": false,
+      "status": 5
+     },
+     {
       "randomizerCheck": 298,
       "skipped": false,
       "status": 5
@@ -5012,6 +5444,11 @@
       "status": 5
      },
      {
+      "randomizerCheck": 490,
+      "skipped": false,
+      "status": 5
+     },
+     {
       "randomizerCheck": 491,
       "skipped": false,
       "status": 5
@@ -5022,7 +5459,107 @@
       "status": 5
      },
      {
+      "randomizerCheck": 493,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 494,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 495,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 496,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 497,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 500,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 501,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 502,
+      "skipped": false,
+      "status": 5
+     },
+     {
       "randomizerCheck": 503,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 504,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 505,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 506,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 526,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 528,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 650,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 651,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 652,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 653,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 654,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 655,
+      "skipped": false,
+      "status": 5
+     },
+     {
+      "randomizerCheck": 656,
       "skipped": false,
       "status": 5
      }
